@@ -1,8 +1,0 @@
-fastapi
-uvicorn[standard]
-sqlalchemy>=1.4
-databases
-bcrypt
-cryptography
-pyjwt
-pydantic
